@@ -38,6 +38,7 @@ dependencies:
   soar_quest:
     git:
       url: https://github.com/ElBatanony/soar_quest.git
+  http: ^1.1.0
 
 dev_dependencies:
   flutter_test:
